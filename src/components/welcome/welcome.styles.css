@@ -1,0 +1,43 @@
+#img4{
+   
+  height: 400px;
+  width: 450px;
+  margin-top: 120px;
+  
+}
+
+#fresh{
+    
+    align-items: center;
+}
+#welcome{
+    margin-top: 30px;
+    /* margin-bottom: 90px; */
+}
+#fresh h2{
+    text-align: center;
+    margin: 30px;
+    color: rgba(94, 86, 8, 0.808);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 500;
+}
+#freshp{
+    font-family:"Libre Baskerville", serif;
+    font-weight: 300;
+    text-indent: 30px;
+     text-align: justify;
+     letter-spacing: 1px;
+    
+
+}
+#fresh button{
+    color: white; 
+    margin-top: 20px;
+}
+#btnw{
+    text-align: center;
+}
+#freshh2{
+    font-size: 40px;
+}

@@ -1,0 +1,61 @@
+#footersec{
+    background-color: #0f0f0f;
+    padding: 30px;
+}
+#icon{
+    color: #fff;
+    
+    margin-left: 80px;
+    padding-bottom: 20px;
+    
+    
+}
+#contactsec{
+    text-align: center;
+    color: #fff;align-items: end;
+    /* padding-left: 300px; */
+}
+#firstfoot h6{
+    color: #f7f3f3;
+    padding: 7px;
+}
+#firstfoot p{
+    color: #8b8989;
+}
+ #secondfoot a{
+    text-decoration: none;
+    color: #8b8989;
+}
+ ul{
+    list-style-type:none;;
+}
+#secondfoot h6{
+    padding: 7px;
+     color: #f7f3f3;
+     text-align: center;
+     
+
+}
+#secondfoot a:hover{
+    color: #fff;
+}
+#thirdfoot h6{
+    padding: 7px;
+     color: #f7f3f3;
+     text-align: center;
+     
+}
+#thirdfoot li{
+    text-decoration: none;
+    color: #8b8989;
+}
+#fourthfoot h6{
+    padding: 7px;
+     color: #f7f3f3;
+     text-align: center;
+}
+#fourthfoot p{
+    color: #8b8989;
+    text-align: center;
+    
+}

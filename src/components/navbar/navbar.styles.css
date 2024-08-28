@@ -1,0 +1,40 @@
+*{
+    font-family:"Titillium Web", sans-serif;
+    padding: 0;
+    margin: 0;
+   
+}
+
+#navbar{
+    /* background-color: #938a00;  */
+    /* background-image: linear-gradient(to bottom right,#ffdc29, #ffe86c);    */
+    background-image: linear-gradient(to right,#e6d604 , #d8d403);
+    z-index: 1;
+}
+#navlinks{
+    color: #705505;
+    font-weight: 600;
+}
+#logo{
+    width: 65px;
+    height: 40px;
+    padding: 5px;
+}
+#login{
+    background-color: #daba04; 
+    
+    border: none;
+    color: rgb(12, 12, 12);
+    padding: 4px 13px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px;
+}
+#login:hover{
+    color: white;
+}
+#navlinks:hover{
+    color: rgb(19, 19, 18);
+}

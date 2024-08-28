@@ -1,0 +1,65 @@
+#lemon{
+    height: 300px;
+    width: 300px;
+}
+.abt_an {
+
+    /* padding-bottom: 500px; */
+  
+    box-sizing: border-box;
+    
+}
+
+.menu-slide {
+    
+    width: 100%;
+    background: linear-gradient(45deg,#f3de1d,#f7f5eb,#dfc902,#ffea32);
+    padding: 50px;
+    background-size: 300% 300%;
+    animation: color 12s ease-in-out infinite;
+    position: relative;
+    height: auto;
+    
+
+}
+
+@keyframes color{
+    0%{
+        background-position: 0 50%;
+
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0 50%;
+    }
+}
+#men{
+    
+    align-items: center;
+}
+.card img{
+    height: 250px;
+}
+.card-text{
+    color: red;
+}
+#card-main{
+ border-color: #e4c92f; 
+ height: 420px;  
+}
+#imgmenu{
+    height: 400px;
+    width: 400px;
+}
+#cardt{
+    height: 80px;
+    padding: 5px;
+}
+#menurow{
+    align-items: center;
+}
+#menu-head{
+    padding: 10px;
+}

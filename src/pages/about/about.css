@@ -1,0 +1,41 @@
+#aboutimg{
+    width: 100%;
+    height: 500px;
+}
+#abouticon{
+    margin: 0;
+    color: rgb(56, 55, 55);
+   
+}
+#abhead{
+    color: rgb(248, 215, 30);
+    text-transform:uppercase;
+}
+#gradient{
+    /* height: 65vh; */
+    height: auto;
+    width: 100%;
+    background: linear-gradient(45deg,#fdd718,#f1e64c,#f7f4cc,#e4c92f);
+  
+    background-size: 300% 300%;
+    animation: color 12s ease-in-out infinite;
+}
+@keyframes color{
+    0%{
+        background-position: 0 50%;
+
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0 50%;
+    }
+}
+#about-icon{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+#about-pp{
+    font-family: "Titillium Web", sans-serif;
+}

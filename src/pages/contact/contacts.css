@@ -1,0 +1,63 @@
+#gradient{
+    height: auto;
+    position: relative;
+    width: 100%;
+    background: linear-gradient(45deg,#f3de1d,#f7f5eb,#dfc902,#ffea32);
+    background-size: 300% 300%;
+    animation: color 12s ease-in-out infinite;
+    align-items: center;
+}
+@keyframes color{
+    0%{
+        background-position: 0 50%;
+
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0 50%;
+    }
+}
+#connecting{
+    align-items: center;
+}
+input{
+    margin: 5px;
+    padding: 5px;
+    align-items: center;
+    text-align: center;
+    border-color: #474746;
+}
+h5{
+    padding: 10px;
+    color: #776608;
+    
+}
+#connection p{
+    color: #4d4d4a;
+}
+#form-bg{
+    /* background-color: #fdea89; */
+    background-image: url("images/img13.jpg");
+}
+#form_section{
+    
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+#contact-us{
+    padding: 10px;
+}
+#contact-image{
+    height: 400px;
+    width: 300px;
+}
+#location{
+    padding: 10px;
+    background-color: #fcf29c;
+    color:#938a00;
+    font-family:"Titillium Web", sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}

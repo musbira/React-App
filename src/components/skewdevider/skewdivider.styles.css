@@ -1,0 +1,30 @@
+.colour-block {
+  background:#fac645; 
+
+}
+
+h1 {
+ text-align:center;
+ font-size:80px;
+ font-family:'wire one', serif;
+ font-weight:normal;
+}
+p {
+ font-size:15px;
+ font-family:cursive;
+}
+
+
+.skew-c{
+ width:100%;
+ height:100px;
+ position:static;
+ left:0px;
+ background: linear-gradient(to left bottom, #fff 49%, #fac645 50%);
+}
+#imgskew{
+  padding-left: 50px;
+}
+#skewcontent{
+  padding-right: 30px;
+}
